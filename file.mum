@@ -1,3 +1,8 @@
 this is my mumbai instance
 this is my london instance 
 here i made some changes
+first we have to pull the code (git pull origin main)
+then we have to do work (vim file.mum & do changes)
+git add filename
+git commit -m "commit msg"
+git push -u origin main
