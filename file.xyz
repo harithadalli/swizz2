@@ -1,0 +1,3 @@
+git conflict 
+when we create files in multiple branches with same name conflicts occur
+when we create files with same content in each branch conflicts will occur
